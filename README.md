@@ -11,7 +11,6 @@
 A narrative-driven transit game about a young, aspiring transit worker whose job sits at the intersection of healthcare and emergency transport.
 With a background in medical transit for the elderly, the player must safely deliver senior passengers to hospitals while navigating busy city streets,
 unpredictable emergencies, and the emotional weight of caring for lives in their most vulnerable moments.
---
 
 
 # Basic Control(s)
@@ -40,7 +39,7 @@ Deccelerate           | "S" Key
 GPS QuickTrack        | "M" Key
 Engine Toggle         | "F" Key
 Enter / Exit          | "E" Button
---
+
 
 _A Collaborative Unity Based Student Project_
 _Development Team To Be Announced..._
