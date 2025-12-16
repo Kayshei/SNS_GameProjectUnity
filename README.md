@@ -1,9 +1,10 @@
 # Scrubs n Sirens
 
 # Game Overview
-Engine: Unity
-Console: PC
-
+- Engine: Unity
+- Console: PC
+- ArtStyle: Low-Poly
+- Age Rating: 13+
 
 # Game Concept (High Concept)
 - Game breakdown
